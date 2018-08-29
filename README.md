@@ -18,42 +18,42 @@ So I wrote a solution that loops through the square roots and then prints out op
 Progressive square roots:
 1 Squared
 =
-12
+1^2
 =
 1 × 1
 =
 1
 2 Squared
 =
-22
+2^2
 =
 2 × 2
 =
 4
 3 Squared
 =
-32
+3^2
 =
 3 × 3
 =
 9
 4 Squared
 =
-42
+4^2
 =
 4 × 4
 =
 16
 5 Squared
 =
-52
+5^2
 =
 5 × 5
 =
 25
 6 Squared
 =
-62
+6^2
 =
 6 × 6
 =
