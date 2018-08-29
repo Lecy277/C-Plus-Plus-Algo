@@ -1,4 +1,5 @@
 
+
 Pr# C-Plus-Plus-Algo
 
 The first .cpp is for the door problem below and the second .cpp is just showing how to create and manipulate lists in various ways.
@@ -16,6 +17,7 @@ The way to solve the door problem was to notice that the doors are the progressi
 So I wrote a solution that loops through the square roots and then prints out open or closed based on whether or not doors ≤ persons or persons ≤ doors.
 
 Progressive square roots:
+
 1 Squared
 =
 1^2
@@ -23,6 +25,7 @@ Progressive square roots:
 1 × 1
 =
 1
+
 2 Squared
 =
 2^2
@@ -30,6 +33,7 @@ Progressive square roots:
 2 × 2
 =
 4
+
 3 Squared
 =
 3^2
@@ -37,6 +41,7 @@ Progressive square roots:
 3 × 3
 =
 9
+
 4 Squared
 =
 4^2
@@ -44,6 +49,7 @@ Progressive square roots:
 4 × 4
 =
 16
+
 5 Squared
 =
 5^2
@@ -51,6 +57,7 @@ Progressive square roots:
 5 × 5
 =
 25
+
 6 Squared
 =
 6^2
