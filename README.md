@@ -2,7 +2,7 @@
 
 Pr# C-Plus-Plus-Algo
 
-The first .cpp is for the door problem below and the second .cpp is just showing how to create and manipulate lists in various ways.
+DoorProblem.cpp is for the door problem below and the second .cpp is just showing how to create and manipulate lists in various ways.
 
 Door Problem:
 
