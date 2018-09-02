@@ -29,3 +29,5 @@ So I wrote a solution that loops through the square roots and then prints out op
 # 5 Square = 5^2 = 5 × 5 = 25
 
 # 6 Squared = 6^2 = 6 × 6 = 36
+
+So if you had 10 doors and 10 persons. The open doors would be 3 and the closed doors 7, because 1,4,9 would be the progressive square roots up to 10. If you had 10 persons and 20 doors. The open doors would be 12 and the closed doors 8 because 1,4,9 would be the progressive square roots up to 10 but then the inverse happens from 11-20 because 16 is the only closed door since its now the square root and the rest of the doors are open.
