@@ -2,7 +2,7 @@
 
 Pr# C-Plus-Plus-Algo
 
-DoorProblem.cpp is for the door problem below and the second .cpp is just showing how to create and manipulate lists in various ways.
+DoorProblem.cpp is for the door problem below and ListSorts.cpp is just showing how to create and manipulate lists in various ways.
 
 Door Problem:
 
@@ -18,50 +18,14 @@ So I wrote a solution that loops through the square roots and then prints out op
 
 Progressive square roots:
 
-1 Squared
-=
-1^2
-=
-1 × 1
-=
-1
+1 Squared = 1^2= 1 × 1 = 1
 
-2 Squared
-=
-2^2
-=
-2 × 2
-=
-4
+2 Squared = 2^2 = 2 × 2 = 4
 
-3 Squared
-=
-3^2
-=
-3 × 3
-=
-9
+3 Squared = 3^2 = 3 × 3 = 9
 
-4 Squared
-=
-4^2
-=
-4 × 4
-=
-16
+4 Squared = 4^2 = 4 × 4 = 16
 
-5 Squared
-=
-5^2
-=
-5 × 5
-=
-25
+5 Square = 5^2 = 5 × 5 = 25
 
-6 Squared
-=
-6^2
-=
-6 × 6
-=
-36
+6 Squared = 6^2 = 6 × 6 = 36
