@@ -1,6 +1,6 @@
 
 
-# C-Plus-Plus-Algo
+# DoorProblem-ListSorts 
 
 DoorProblem.cpp is for the door problem below and ListSorts.cpp is just showing how to create and manipulate lists in various ways.
 
