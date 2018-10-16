@@ -54,31 +54,31 @@ int main ()
   --it2;       // it points now to the second 20
 
    for (it2=mylist2.begin(); it2!=mylist2.end(); ++it2)
-        std::cout << ' ' << *it2;
-        std::cout << '\n';
+        cout << ' ' << *it2;
+        cout << '\n';
 
   for (it1=mylist1.begin(); it1!=mylist1.end(); ++it1)
-        std::cout << ' ' << *it1<<'\n';
-        std::cout << '\n';
+        cout << ' ' << *it1<<'\n';
+        cout << '\n';
 
   for (it3=mylist3.begin(); it3!=mylist3.end(); ++it3)
-        std::cout << ' ' << *it3<<'\n';
-        std::cout << '\n';
+        cout << ' ' << *it3<<'\n';
+        cout << '\n';
   
   for (it4=mylist4.begin(); it4!=mylist4.end(); ++it4)
-        std::cout << ' ' << *it4<<'\n';
-        std::cout << '\n';
+        cout << ' ' << *it4<<'\n';
+        cout << '\n';
 
  cout << "mylist contains: sorted";                                             
   for (it=mylist.begin(); it!=mylist.end(); ++it)
-    std::cout << ' ' << *it;
-  std::cout << '\n';
+      cout << ' ' << *it;
+      cout << '\n';
 
   mylist.reverse();
-   std::cout << "mylist contains: reverse";                                             
+  cout << "mylist contains: reverse";                                             
   for (it=mylist.begin(); it!=mylist.end(); ++it)
-    std::cout << ' ' << *it;
-  std::cout << '\n';
+        cout << ' ' << *it;
+        cout << '\n';
 
   return 0;
 }
