@@ -12,7 +12,7 @@ Challenge: Assume all doors are closed initially, find the number of doors open 
 Inputs will be number of doors, number of persons and output should be number of doors open and number of doors closed.
 
 Solution:
-The way to solve the door problem was to notice that the doors are the progressive square roots.  If the doors ≤ persons then the closed doors are all the progressive square roots.  If the persons ≤ doors then up to the point where the persons = doors all the closed doors are the progressive square roots as stated above and when the doors>persons then the inverse is true the open doors becomes the square roots and the closed doors are every other number.
+The way to solve the door problem was to notice that the doors open or closed are based on perfect square roots.  If the doors ≤ persons then the open doors are all the perfect square roots.  If the persons ≤ doors then up to the point where the persons = doors all the open doors are the perfect square roots as stated above and when the doors>persons then the inverse is true the closed doors becomes the perfect square roots and the open doors are every other number.
 
 So I wrote a solution that loops through the square roots and then prints out open or closed based on whether or not doors ≤ persons or persons ≤ doors.
 
@@ -30,4 +30,4 @@ So I wrote a solution that loops through the square roots and then prints out op
 
 # 6 Squared = 6^2 = 6 × 6 = 36
 
-So if you had 10 doors and 10 persons.  The open doors would be 3 and the closed doors 7, because 1,4,9 would be the progressive square roots up to 10. If you had 10 persons and 20 doors.  The open doors would be 12 and the closed doors 8 because 1,4,9 would be the progressive square roots up to 10 but then the inverse happens from 11-20 because 16 is the only closed door since its now the square root and the rest of the doors are open.
+So if you had 10 doors and 10 persons.  The open doors would be 3 and the closed doors 7, because 1,4,9 would be the perfect square roots up to 10. If you had 10 persons and 20 doors.  The open doors would be 12 and the closed doors 8 because 1,4,9 would be the perfect square roots up to 10 but then the inverse happens from 11-20 because 16 is the only closed door since its now the  perfect square root and the rest of the doors are open.
